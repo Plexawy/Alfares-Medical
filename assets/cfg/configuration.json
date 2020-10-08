@@ -1,0 +1,8 @@
+{
+  "base_url": "https://www.alfares-medical.com/Al-Fares/index.php",
+  "api_base_url": "https://www.alfares-medical.com/Al-Fares/index.php/api/",
+  "firstColor": "#7b50dc",
+  "secondColor": "#7b50dc",
+  "appIdOneSignal": "baadda03-eba1-4f10-941c-b6c5b1966dad",
+  "defaultLanguage": "en"
+}

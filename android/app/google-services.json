@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530625670600",
+    "firebase_url": "https://alfares-medical.firebaseio.com",
+    "project_id": "alfares-medical",
+    "storage_bucket": "alfares-medical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530625670600:android:447fd4982b2a422240a4fd",
+        "android_client_info": {
+          "package_name": "com.alfaresmedical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530625670600-vtb54gf8a7d90b7mg4975or1cptarubb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QeaTh-4B34oHwCp8r93pnkcKyBjqisk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530625670600-vtb54gf8a7d90b7mg4975or1cptarubb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530625670600-hkg9su1k4f7t045qh8jfpckkbo4h4g41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alfaresmedical"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
